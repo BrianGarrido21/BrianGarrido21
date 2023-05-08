@@ -14,11 +14,11 @@ Here you can find a list of my most prominent projects:
 
 ## My skills
 
-- [Java](link here)
-- [JavaScript](link here)
-- [SQL](link here)
-- [HTML And CSS](link here)
-- [Python](link here)
+- [Java](
+- [JavaScript]
+- [SQL]
+- [HTML And CSS]
+- [Python]
 
 ## Contact
 
