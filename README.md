@@ -10,13 +10,19 @@ Here you can find a list of my most prominent projects:
 
 - Bryant-Benz
 
-## My skills
+## Programing Languages
 
-- [Java]
-- [JavaScript]
-- [SQL]
-- [HTML And CSS]
-- [Python]
+- Java
+- JavaScript
+- SQL
+- HTML And CSS
+- Python
+
+## My Skills
+
+- Proactivity and entrepreneurship
+- Flexibility and adaptability
+- Continuous learning
 
 ## Contact
 
