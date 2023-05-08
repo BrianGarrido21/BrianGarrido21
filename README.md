@@ -1,5 +1,4 @@
 # Hello, I'm Brian Garrido 👋
-[![BrianGarrido21's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGarrido21)](https://github.com/BrianGarrido21/github-readme-stats)
 
 ## About me
 
@@ -15,11 +14,7 @@ Here you can find a list of my most prominent projects:
 
 ## Programing Languages
 
-- Java
-- JavaScript
-- SQL
-- HTML And CSS
-- Python
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGarrido21&layout=compact)](https://github.com/BrianGarrido21/github-readme-stats)
 
 ## My Skills
 
