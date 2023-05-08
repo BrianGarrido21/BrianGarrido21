@@ -1,4 +1,5 @@
 # Hello, I'm Brian Garrido 👋
+[![BrianGarrido21's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGarrido21)](https://github.com/BrianGarrido21/github-readme-stats)
 
 ## About me
 
