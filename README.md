@@ -1,8 +1,8 @@
-# Hello, I'm [Brian Garrido] 👋
+# Hello, I'm Brian Garrido 👋
 
 ## About me
 
-I am a [Junior Programmer], interested in [AI and Big Data]. I enjoy learning and exploring new technologies, and I am passionate about [coding]. Additionally, I like to share my knowledge with others and help the software development community.
+I am a Junior Programmer, interested in AI and Big Data. I enjoy learning and exploring new technologies, and I am passionate about coding. Additionally, I like to share my knowledge with others and help the software development community.
 
 ## My projects
 
@@ -14,7 +14,7 @@ Here you can find a list of my most prominent projects:
 
 ## My skills
 
-- [Java](
+- [Java]
 - [JavaScript]
 - [SQL]
 - [HTML And CSS]
