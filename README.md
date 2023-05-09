@@ -4,7 +4,7 @@
 
 I am a Junior Programmer, interested in AI and Big Data. I enjoy learning and exploring new technologies, and I am passionate about coding. Additionally, I like to share my knowledge with others and help the software development community.
 
-![BrianGarrido21's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGarrido21&show_icons=true&theme=radial)
+![BrianGarrido21's GitHub stats](https://github-readme-stats.vercel.app/api?username=BrianGarrido21&show_icons=true&theme=radical)
 
 ## My projects
 
@@ -14,7 +14,7 @@ Here you can find a list of my most prominent projects:
 
 ## Programing Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGarrido21&layout=compact&theme=radial)](https://github.com/BrianGarrido21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGarrido21&layout=compact&theme=radical)](https://github.com/BrianGarrido21/github-readme-stats)
 
 ## My Skills
 
