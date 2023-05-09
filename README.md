@@ -10,7 +10,8 @@ I am a Junior Programmer, interested in AI and Big Data. I enjoy learning and ex
 
 Here you can find a list of my most prominent projects:
 
-- Bryant-Benz
+- Bryant-Benz Java [In progress]
+- Horseshoe's Bryant JavaScript [In progress]
 
 ## Programing Languages
 
