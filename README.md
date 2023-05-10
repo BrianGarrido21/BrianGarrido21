@@ -15,7 +15,7 @@ Here you can find a list of my most prominent projects:
 
 ## Programing Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGarrido21&hide_progress=true%layout=donutchart&theme=radical)](https://github.com/BrianGarrido21/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BrianGarrido21&hide_progress=true%layout=donut&theme=radical)](https://github.com/BrianGarrido21/github-readme-stats)
 
 ## My Skills
 
