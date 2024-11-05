@@ -10,8 +10,6 @@ I am a Junior Programmer, interested in AI and Big Data. I enjoy learning and ex
 
 Here you can find a list of my most prominent projects:
 
-- Bryant's-Benz Java [https://github.com/BrianGarrido21/Coding/tree/main/ConcesionarioBryants]
-- Rock-Scyssors-Paper JavaScript [https://github.com/BrianGarrido21/HTML-CSS-JS/tree/main/Proyecto%20LDM]
 
 ## Programing Languages
 
