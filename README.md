@@ -1,8 +1,8 @@
 # ¡Hola, soy Brian Garrido Picón! 👋
 
-[cite_start][**Desarrollador Fullstack**][portfolio] [cite: 2] [cite_start]con un fuerte interés en **Big Data e Inteligencia Artificial**[cite: 28].
+[**Desarrollador Fullstack**][portfolio] con un fuerte interés en **Big Data e Inteligencia Artificial**.
 
-[cite_start]Soy un desarrollador comprometido, resolutivo y con alta motivación por crecer profesionalmente en entornos técnicos[cite: 7]. [cite_start]Tengo experiencia en desarrollo backend con Oracle [cite: 10] [cite_start]y desarrollo fullstack con tecnologías modernas como Angular [cite: 17][cite_start], Vue.js [cite: 6] [cite_start]y Laravel[cite: 6].
+Soy un desarrollador comprometido, resolutivo y con alta motivación por crecer profesionalmente en entornos técnicos. Tengo experiencia en desarrollo backend con Oracle y desarrollo fullstack con tecnologías modernas como Angular, Vue.js y Laravel.
 
 [portfolio]: https://briangarridopicon.com/portfolio
 
@@ -10,62 +10,62 @@
 
 ## 🔭 Sobre mí
 
--   [cite_start]🌱 Actualmente estoy cursando el **Curso de Especialización en Big Data e Inteligencia Artificial**[cite: 28].
+-   🌱 Actualmente estoy cursando el **Curso de Especialización en Big Data e Inteligencia Artificial**.
 -   👯 Busco colaborar en proyectos desafiantes donde pueda aplicar mis conocimientos de desarrollo web y análisis de datos.
--   [cite_start]💬 Pregúntame sobre desarrollo web (Angular [cite: 6][cite_start], Vue.js [cite: 6][cite_start], Laravel [cite: 6][cite_start]), bases de datos (Oracle/PLSQL [cite: 12][cite_start], MySQL [cite: 18][cite_start]) o despliegue (AWS [cite: 6][cite_start], Docker [cite: 26]).
+-   💬 Pregúntame sobre desarrollo web (Angular, Vue.js, Laravel), bases de datos (Oracle/PLSQL, MySQL) o despliegue (AWS, Docker).
 
 ## 💼 Experiencia Laboral
 
-### [cite_start]Desarrollador Oracle - Ayesa, Sevilla [cite: 9, 10]
-[cite_start]*(Marzo 2025 - Junio 2025)* [cite: 9]
+### Desarrollador Oracle - Ayesa, Sevilla
+*(Marzo 2025 - Junio 2025)*
 
--   [cite_start]Desarrollo y mantenimiento de formularios en Oracle Forms & Reports para la gestión de expedientes tributarios y administrativos[cite: 11].
--   [cite_start]Programación de procedimientos, paquetes, funciones y triggers en PL/SQL para automatizar procesos fiscales[cite: 12].
--   [cite_start]Análisis y optimización de consultas SQL sobre bases de datos Oracle de gran volumen[cite: 13].
+-   Desarrollo y mantenimiento de formularios en Oracle Forms & Reports para la gestión de expedientes tributarios y administrativos.
+-   Programación de procedimientos, paquetes, funciones y triggers en PL/SQL para automatizar procesos fiscales.
+-   Análisis y optimización de consultas SQL sobre bases de datos Oracle de gran volumen.
 
-### [cite_start]Desarrollador web fullstack (Erasmus+) - Hagebau, Alemania [cite: 15, 16]
-[cite_start]*(Junio 2024)* [cite: 15]
+### Desarrollador web fullstack (Erasmus+) - Hagebau, Alemania
+*(Junio 2024)*
 
--   [cite_start]Desarrollo web utilizando Angular (frontend) y Prisma (backend)[cite: 17].
--   [cite_start]Trabajé con bases de datos MySQL para gestionar datos en el backend[cite: 18].
+-   Desarrollo web utilizando Angular (frontend) y Prisma (backend).
+-   Trabajé con bases de datos MySQL para gestionar datos en el backend.
 
 ## 🎓 Formación Académica
 
 ### Curso de Especialización en Big Data e Inteligencia Artificial
--   [cite_start]**I.E.S La Marisma** (2025 - Actual) [cite: 28]
+-   **I.E.S La Marisma** (2025 - Actual)
 
 ### Grado Superior en Desarrollo de Aplicaciones Web (DAW)
--   [cite_start]**I.E.S La Marisma** (2023 - 2025) [cite: 20, 21]
+-   **I.E.S La Marisma** (2023 - 2025)
 
 ## 🛠️ Tecnologías y Habilidades
 
 ### Frontend
-[cite_start]![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) [cite: 6, 17]
-[cite_start]![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D) [cite: 6, 23]
-[cite_start]![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) [cite: 6]
-[cite_start]![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) [cite: 23]
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Backend
-[cite_start]![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) [cite: 6, 24]
-[cite_start]![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) [cite: 24]
-[cite_start]![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) [cite: 24]
-[cite_start]![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) [cite: 24]
-[cite_start]![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white) [cite: 17]
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 ### Bases de Datos
-[cite_start]![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) [cite: 10]
-[cite_start]![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white) [cite: 12]
-[cite_start]![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white) [cite: 18, 25]
-[cite_start]![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) [cite: 25]
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![PL/SQL](https://img.shields.io/badge/PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### DevOps y Otros
-[cite_start]![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) [cite: 6, 26]
-[cite_start]![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) [cite: 26]
-[cite_start]![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) [cite: 26]
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### Habilidades Blandas
--   [cite_start]🚀 Comprometido y resolutivo [cite: 7]
--   [cite_start]📚 Aprendizaje continuo y alta motivación [cite: 7, 28]
+-   🚀 Comprometido y resolutivo
+-   📚 Aprendizaje continuo y alta motivación
 
 ## 🚀 Mis Proyectos Personales
 
@@ -80,8 +80,8 @@ Aquí puedes encontrar una lista de mis proyectos más destacados.
 
 ## 🌐 Idiomas
 
--   [cite_start]**Español:** Nativo [cite: 30]
--   [cite_start]**Inglés:** C1 (Trinity) [cite: 31]
+-   **Español:** Nativo
+-   **Inglés:** C1 (Trinity)
 
 ## 📊 Mis Estadísticas de GitHub
 
