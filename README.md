@@ -5,6 +5,12 @@
 Soy un desarrollador comprometido, resolutivo y con alta motivación por crecer profesionalmente en entornos técnicos. Tengo experiencia en desarrollo backend con Oracle y desarrollo fullstack con tecnologías modernas como Angular, Vue.js y Laravel.
 
 [portfolio]: https://briangarridopicon.com/portfolio
+---
+## 🔭 Sobre mí
+
+-   🌱 Actualmente estoy cursando el **Curso de Especialización en Big Data e Inteligencia Artificial**.
+-   👯 Busco colaborar en proyectos desafiantes donde pueda aplicar mis conocimientos de desarrollo web y análisis de datos.
+-   💬 Pregúntame sobre desarrollo web (Angular, Vue.js, Laravel), bases de datos (Oracle/PLSQL, MySQL) o despliegue (AWS, Docker).
 
 ---
 
@@ -35,11 +41,6 @@ Aplicación web para la gestión interna de una empresa, con sistema de pagos (P
 
 ---
 
-## 🔭 Sobre mí
-
--   🌱 Actualmente estoy cursando el **Curso de Especialización en Big Data e Inteligencia Artificial**.
--   👯 Busco colaborar en proyectos desafiantes donde pueda aplicar mis conocimientos de desarrollo web y análisis de datos.
--   💬 Pregúntame sobre desarrollo web (Angular, Vue.js, Laravel), bases de datos (Oracle/PLSQL, MySQL) o despliegue (AWS, Docker).
 
 ## 💼 Experiencia Laboral
 
