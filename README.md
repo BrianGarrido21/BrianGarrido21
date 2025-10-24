@@ -81,7 +81,16 @@ Aplicación web desarrollada con Laravel y livewire para la gestión de eventos 
   ![Livewire](https://img.shields.io/badge/Livewire-4F549A?style=for-the-badge&logo=livewire&logoColor=white)
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 - **Repositorio:** [https://github.com/BrianGarrido21/Calendar.io](https://github.com/BrianGarrido21/Calendar.io)
-  
+
+  ### 📌 NoseCaenSL
+Aplicación web para la gestión interna de una empresa, con sistema de pagos (PayPal), desarrollada con Vue, Inertia, Laravel y Tailwind.
+
+- **Tecnologías:** ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
+  ![Inertia.js](https://img.shields.io/badge/Inertia.js-9553E9?style=for-the-badge&logo=inertia&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+  ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
+- **Repositorio:** [https://github.com/BrianGarrido21/NoseCaenSL](https://github.com/BrianGarrido21/NoseCaenSL)
 ## 🌐 Idiomas
 
 -   **Español:** Nativo
