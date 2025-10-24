@@ -42,7 +42,7 @@ Aplicación web para la gestión interna de una empresa, con sistema de pagos (P
   ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
   ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 - **Repositorio:** [https://github.com/BrianGarrido21/NoseCaenSL](https://github.com/BrianGarrido21/NoseCaenSL)
-- - **URL:** https://briangarridopicon.com/nosecaensl/
+- **URL:** https://briangarridopicon.com/nosecaensl/
 
 ---
 
