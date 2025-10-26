@@ -1,4 +1,5 @@
 # ¡Hola, soy Brian Garrido Picón! 👋
+
 <p align="left">
   <a href="https://briangarridopicon.com/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
@@ -10,6 +11,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
 [**Desarrollador Fullstack**][portfolio] con un fuerte interés en **Big Data e Inteligencia Artificial**.
 
 Soy un desarrollador comprometido, resolutivo y con alta motivación por crecer profesionalmente en entornos técnicos. Tengo experiencia en desarrollo backend con Oracle y desarrollo fullstack con tecnologías modernas como Angular, Vue.js y Laravel.
